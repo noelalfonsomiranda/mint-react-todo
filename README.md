@@ -11,6 +11,8 @@ Build a basic To-Do list where users can:
 
 ## 🚀 Getting Started
 
+Node expected version ">=18"
+
 ```bash
 git clone https://github.com/noelalfonsomiranda/mint-react-todo.git
 cd mint-react-todo
