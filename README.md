@@ -62,3 +62,6 @@ yarn start
   todo: "Example task"
 }
 ```
+
+## 🎉 Expected output:
+![Alt ss](https://raw.githubusercontent.com/noelalfonsomiranda/mint-react-todo/refs/heads/main/public/ss.png)
