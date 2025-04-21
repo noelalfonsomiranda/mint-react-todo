@@ -12,6 +12,8 @@ Build a basic To-Do list where users can:
 ## 🚀 Getting Started
 
 ```bash
+git clone https://github.com/noelalfonsomiranda/mint-react-todo.git
+cd mint-react-todo
 yarn
 yarn start
 ```
