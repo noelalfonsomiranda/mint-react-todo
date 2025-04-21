@@ -16,6 +16,11 @@ yarn
 yarn start
 ```
 
+- Open the source code with your IDE
+- Open `src/App.tsx` and `src/Todo.tsx`
+
+---
+
 ### 1. Set Up Components
 - Render the `Todo` component inside the `App` component.
 
